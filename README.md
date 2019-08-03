@@ -1,7 +1,6 @@
 # Week3_Assignment_CaoBaThanhSang
 Accomplishments
 [x] User can select Rock, Paper, or Scissors
-
 [x] User can see image of their selection
 [x] User can see text of their selection
 [x] User can see image of computer's selection
